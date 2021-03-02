@@ -1,7 +1,7 @@
 ### Hi 👋
 > 我的 CSDN 博客:https://blog.csdn.net/lzw398756924 <br>
-我的简书：https://www.jianshu.com/u/ff26f69d6c12  <br>
-github: https://github.com/ziwenL/ziwenL/  <br>
+我的简书：https://www.jianshu.com/u/ff26f69d6c12 <br>
+github: https://github.com/ziwenL <br>
 
 <!--
 **gdutxiaoxu/gdutxiaoxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
