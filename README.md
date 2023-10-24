@@ -1,4 +1,4 @@
-<img align="right" alt="ziwen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ziwenL&show_icons=true">
+
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 😄 `Nick` : ziwen
